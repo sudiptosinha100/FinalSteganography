@@ -1,0 +1,10 @@
+C:\Users\sudip\Desktop\FinalTest\FinalTest\bin\Debug\FinalTest.exe.config
+C:\Users\sudip\Desktop\FinalTest\FinalTest\bin\Debug\FinalTest.exe
+C:\Users\sudip\Desktop\FinalTest\FinalTest\bin\Debug\FinalTest.pdb
+C:\Users\sudip\Desktop\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.AssemblyReference.cache
+C:\Users\sudip\Desktop\FinalTest\FinalTest\obj\Debug\FinalTest.Form1.resources
+C:\Users\sudip\Desktop\FinalTest\FinalTest\obj\Debug\FinalTest.Properties.Resources.resources
+C:\Users\sudip\Desktop\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.GenerateResource.cache
+C:\Users\sudip\Desktop\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\sudip\Desktop\FinalTest\FinalTest\obj\Debug\FinalTest.exe
+C:\Users\sudip\Desktop\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
